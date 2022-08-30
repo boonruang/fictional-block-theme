@@ -262,6 +262,10 @@ new PlaceholderBlock("programarchive");
 new PlaceholderBlock("singleprogram");
 new PlaceholderBlock("singleprofessor");
 new PlaceholderBlock("mynotes");
+new PlaceholderBlock("eventarchive");
+new PlaceholderBlock("singleevent");
+new PlaceholderBlock("archivecampus");
+new PlaceholderBlock("singlecampus");
 
 class JSXBlock {
     function __construct($name, $renderCallback = null, $data = null) {
